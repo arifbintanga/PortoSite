@@ -1,1 +1,8 @@
 .LOG
+10:50 PM 9/19/2020
+1. Installing VS Code for Windows 10
+2. Install extension Live-Server
+3. Create New Page index.html on project folder
+4. Install git from web
+5. "Use VSCode as default editor"
+6. 
