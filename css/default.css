@@ -10,6 +10,9 @@
     --buttonColor: black;
 }
 
+body *{
+    transition: 0.3s;
+}
 
 html, body{
     padding: 0;
@@ -83,6 +86,7 @@ p, div, li, span, label, input, textarea{
         'nav-wrapper nav-wrapper'
         'left-column right-column'
     ;
+    padding-bottom: 50px;
 }
 
 .nav-wrapper{
@@ -348,7 +352,6 @@ p, div, li, span, label, input, textarea{
 .form-wrapper{
     justify-content: center;
     margin: 10px 10px 10px 10px;
-    border: 1px dashed coral;
 }
 
 #contact-form{
