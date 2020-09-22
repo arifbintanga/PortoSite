@@ -424,6 +424,6 @@ p, div, li, span, label, input, textarea{
     }
 
     .theme-title{
-        font-size: auto;
+        font-size: 10px;
     }
 }   
