@@ -423,4 +423,8 @@ p, div, li, span, label, input, textarea{
         align-content: center;
     }
 
+    .title-theme-wrapper{
+        border: 1px dashed coral;
+    }
+
 }   
