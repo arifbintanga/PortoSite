@@ -422,4 +422,8 @@ p, div, li, span, label, input, textarea{
         justify-content: center;
         align-content: center;
     }
+
+    .theme-title{
+        font-size: auto;
+    }
 }   
