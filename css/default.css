@@ -386,6 +386,10 @@ p, div, li, span, label, input, textarea{
     font-size: 14px;
 }
 
+.title-theme-wrapper{
+    font-size: 10px;
+}
+
 @media screen and (max-width: 1200px){
     .main-container{
         width: 95%;
@@ -421,10 +425,6 @@ p, div, li, span, label, input, textarea{
     .right-column{
         justify-content: center;
         align-content: center;
-    }
-
-    .title-theme-wrapper{
-        border: 1px dashed coral;
     }
 
 }   
